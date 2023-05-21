@@ -14,6 +14,7 @@
 |题号|题目|方法|
 |---|---|---|
 |1073|[负二进制数相加](https://leetcode.cn/problems/adding-two-negabinary-numbers/)|加法器模拟|
+|LCP 33|[蓄水](https://leetcode.cn/problems/o8SXZn/) |贪心+优先队列|
 
 ### 树
 
