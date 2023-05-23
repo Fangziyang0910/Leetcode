@@ -16,6 +16,7 @@
 |1073|[负二进制数相加](https://leetcode.cn/problems/adding-two-negabinary-numbers/)|加法器模拟|
 |LCP 33|[蓄水](https://leetcode.cn/problems/o8SXZn/) |贪心+优先队列|
 |765|[情侣牵手](https://leetcode.cn/problems/couples-holding-hands/)|贪心、并查集|
+|1090|[受标签影响的最大值](https://leetcode.cn/problems/largest-values-from-labels/)|优先队列+哈希|
 
 ### 树
 
