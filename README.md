@@ -23,4 +23,5 @@
 |题号|题目|方法|
 |---|---|---|
 |1373|[二叉搜索子树的最大键值和](https://leetcode.cn/problems/maximum-sum-bst-in-binary-tree/description/)|DFS|
-|1080|[根到叶路径上的不足节点](https://leetcode.cn/problems/insufficient-nodes-in-root-to-leaf-paths/)|DFS
+|1080|[根到叶路径上的不足节点](https://leetcode.cn/problems/insufficient-nodes-in-root-to-leaf-paths/)|DFS|
+|1377|[ T 秒后青蛙的位置](https://leetcode.cn/problems/frog-position-after-t-seconds/)|父指针+哈希|
