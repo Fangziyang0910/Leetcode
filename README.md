@@ -8,6 +8,7 @@
 |题号|题目|方法|
 |---|---|---|
 |1079|[活字印刷](https://leetcode.cn/problems/letter-tile-possibilities/)|回溯递归|
+|2451|[差值数组不同的字符串](https://leetcode.cn/problems/odd-string-difference/)|遍历|
 
 ### 数组
 
