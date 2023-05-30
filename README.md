@@ -31,4 +31,5 @@
 |题号|题目|方法|
 |---|---|---|
 |1091|[ 二进制矩阵中的最短路径](https://leetcode.cn/problems/shortest-path-in-binary-matrix/)|BFS|
+|1439|[ 有序矩阵中的第 k 个最小数组和](https://leetcode.cn/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|贪心暴力|
 
