@@ -18,6 +18,7 @@
 |LCP 33|[蓄水](https://leetcode.cn/problems/o8SXZn/) |贪心+优先队列|
 |765|[情侣牵手](https://leetcode.cn/problems/couples-holding-hands/)|贪心、并查集|
 |1090|[受标签影响的最大值](https://leetcode.cn/problems/largest-values-from-labels/)|优先队列+哈希|
+|1130|[叶值的最小代价生成树](https://leetcode.cn/problems/minimum-cost-tree-from-leaf-values/)|动态规划|
 
 ### 树
 
