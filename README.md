@@ -20,6 +20,7 @@
 |1090|[受标签影响的最大值](https://leetcode.cn/problems/largest-values-from-labels/)|优先队列+哈希|
 |1130|[叶值的最小代价生成树](https://leetcode.cn/problems/minimum-cost-tree-from-leaf-values/)|动态规划|
 |2517| [礼盒的最大甜蜜度](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket/)|贪心+二分查找|
+|2559|[统计范围内的元音字符串数](https://leetcode.cn/problems/count-vowel-strings-in-ranges/)|前缀和|
 
 ### 树
 
