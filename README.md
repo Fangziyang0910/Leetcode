@@ -9,6 +9,7 @@
 |---|---|---|
 |1079|[活字印刷](https://leetcode.cn/problems/letter-tile-possibilities/)|回溯递归|
 |2451|[差值数组不同的字符串](https://leetcode.cn/problems/odd-string-difference/)|遍历|
+|1156| [单字符重复子串的最大长度](https://leetcode.cn/problems/swap-for-longest-repeated-character-substring/)|滑动窗口+双指针|
 
 ### 数组
 
