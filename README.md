@@ -22,6 +22,7 @@
 |1130|[叶值的最小代价生成树](https://leetcode.cn/problems/minimum-cost-tree-from-leaf-values/)|动态规划|
 |2517| [礼盒的最大甜蜜度](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket/)|贪心+二分查找|
 |2559|[统计范围内的元音字符串数](https://leetcode.cn/problems/count-vowel-strings-in-ranges/)|前缀和|
+|2611 |[老鼠和奶酪](https://leetcode.cn/problems/mice-and-cheese/)|贪心+优先队列|
 
 ### 树
 
