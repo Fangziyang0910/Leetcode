@@ -38,4 +38,12 @@
 |---|---|---|
 |1091|[ 二进制矩阵中的最短路径](https://leetcode.cn/problems/shortest-path-in-binary-matrix/)|BFS|
 |1439|[ 有序矩阵中的第 k 个最小数组和](https://leetcode.cn/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|贪心暴力|
+|1240|[铺瓷砖](https://leetcode.cn/problems/tiling-a-rectangle-with-the-fewest-squares/)|回溯|
 
+
+
+## 图
+
+| 题号 | 题目                                                         | 方法         |
+| ---- | ------------------------------------------------------------ | ------------ |
+| 2699 | [修改图中的边权](https://leetcode.cn/problems/modify-graph-edge-weights/) | 两遍Dijkstra |
