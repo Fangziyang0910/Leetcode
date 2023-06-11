@@ -10,6 +10,7 @@
 |1079|[活字印刷](https://leetcode.cn/problems/letter-tile-possibilities/)|回溯递归|
 |2451|[差值数组不同的字符串](https://leetcode.cn/problems/odd-string-difference/)|遍历|
 |1156| [单字符重复子串的最大长度](https://leetcode.cn/problems/swap-for-longest-repeated-character-substring/)|滑动窗口+双指针|
+|1170.| [比较字符串最小字母出现频次](https://leetcode.cn/problems/compare-strings-by-frequency-of-the-smallest-character/) |排序+二分查找|
 
 ### 数组
 
@@ -47,3 +48,10 @@
 | 题号 | 题目                                                         | 方法         |
 | ---- | ------------------------------------------------------------ | ------------ |
 | 2699 | [修改图中的边权](https://leetcode.cn/problems/modify-graph-edge-weights/) | 两遍Dijkstra |
+
+## 链表
+
+| 题号  | 题目                                                         | 方法          |
+| ----- | ------------------------------------------------------------ | ------------- |
+| 1171. | [从链表中删去总和值为零的连续节点](https://leetcode.cn/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) | 前缀和+哈希表 |
+
