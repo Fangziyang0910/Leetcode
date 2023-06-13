@@ -24,6 +24,7 @@
 |2517| [礼盒的最大甜蜜度](https://leetcode.cn/problems/maximum-tastiness-of-candy-basket/)|贪心+二分查找|
 |2559|[统计范围内的元音字符串数](https://leetcode.cn/problems/count-vowel-strings-in-ranges/)|前缀和|
 |2611 |[老鼠和奶酪](https://leetcode.cn/problems/mice-and-cheese/)|贪心+优先队列|
+|2475 |[数组中不等三元组的数目](https://leetcode.cn/problems/number-of-unequal-triplets-in-array/)|排列组合问题（哈希）|
 
 ### 树
 
@@ -33,6 +34,7 @@
 |1080|[根到叶路径上的不足节点](https://leetcode.cn/problems/insufficient-nodes-in-root-to-leaf-paths/)|DFS|
 |1377|[ T 秒后青蛙的位置](https://leetcode.cn/problems/frog-position-after-t-seconds/)|父指针+哈希|
 |1110|[删点成林](https://leetcode.cn/problems/delete-nodes-and-return-forest/)|DFS+哈希|
+|1483.|[树节点的第 K 个祖先](https://leetcode.cn/problems/kth-ancestor-of-a-tree-node/)|倍增|
 
 ### 矩阵
 |题号|题目|方法|
