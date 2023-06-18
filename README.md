@@ -42,6 +42,7 @@
 |1091|[ 二进制矩阵中的最短路径](https://leetcode.cn/problems/shortest-path-in-binary-matrix/)|BFS|
 |1439|[ 有序矩阵中的第 k 个最小数组和](https://leetcode.cn/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/)|贪心暴力|
 |1240|[铺瓷砖](https://leetcode.cn/problems/tiling-a-rectangle-with-the-fewest-squares/)|回溯|
+|1254|[统计封闭岛屿的数目](https://leetcode.cn/problems/number-of-closed-islands/)|BFS/DFS/并查集|
 
 
 
